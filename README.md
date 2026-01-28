@@ -1,4 +1,4 @@
-Hey Visitor No. <img src="https://profile-counter.glitch.me/{Shanmuktej}/count.svg" width="20%"/> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="4%"/> 
+Hey Visitor No. <img src="https://profile-counter.glitch.me/{shanmukaanem}/count.svg" width="20%"/> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="4%"/> 
 =====
 
 ### Welcome to Shanmuktej's Github Profile! 
